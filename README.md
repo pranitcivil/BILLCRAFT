@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# BILLCRAFT-Invoice Generator App  
 
-Currently, two official plugins are available:
+BILLCRAFT is a user-friendly invoice generator app that allows users to easily create and customize invoices.Users can input essential details, including item descriptions, quantities, and prices, to generate a well-organized invoice document.The app offers users to download professional invoices as a pdf file. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Tech Stack
+
+**Client:** React,TailwindCSS 
+
+
+![Screenshot (27) copy](https://github.com/user-attachments/assets/3feb4160-f9bc-4a2e-b751-ba0a15878f16)
+
+
+
+
