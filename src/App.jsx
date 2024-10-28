@@ -56,6 +56,25 @@ const App = () => {
   const downLoad = () => {
     const element = pageRef.current; // Element to download
     html2pdf().from(element).save("invoice.pdf");
+    setName("");
+    setAddress("");
+    setEmail("");
+    setWebsite("");
+    setPhoneNumber("");
+    setBankName("");
+    setBankAccount("");
+    setClientName("");
+    setClientAddress("");
+    setInvoiceNumber("");
+    setInvoiceDate("");
+    setDuedate("");
+    setNotes("");
+    setDescription("");
+    setQuantity("");
+    setPrice("");
+    setAmount("");
+    setList([]);
+    setTotal(0);
   };
 
   // Save each state variable to localStorage on change
